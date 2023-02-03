@@ -13,5 +13,7 @@ Kafka Modules
   
 Spring Modules
   - Spring vs Spring mvc vs Spring boot
+  - ref doc
+      - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#legal
   - Concepts
   - Annotation on use
