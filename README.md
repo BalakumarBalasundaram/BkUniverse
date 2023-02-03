@@ -17,3 +17,6 @@ Spring Modules
       - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#legal
   - Concepts
   - Annotation on use
+  - Run with below sample
+    - proj : https://github.com/teixeira-fernando/EcommerceApp
+    - 
